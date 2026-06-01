@@ -27,15 +27,16 @@ This project demonstrates **file handling, structures, and menu-driven programmi
    ```bash
    gcc billing.c -o billing
 
-
+Run the program : 
    ./billing
 
-   billing.c      # Source code
+ File Structure: 
+billing.c      # Source code
 file.txt       # Auto-generated file storing customer records
 README.md      # Project documentation
 
 
-
+Example Usage :
 CUSTOMER BILLING SYSTEM :
 
 ==============================
